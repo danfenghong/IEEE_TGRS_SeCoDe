@@ -11,6 +11,16 @@ Run this Matlab code to reproduce the result on Samson Dataset in ["Sparsity-Enh
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
+     @article{yao2020sparsity,
+      title     = {Sparsity-Enhanced Convolutional Decomposition: A Novel Tensor-Based Paradigm for Blind Hyperspectral Unmixing},
+      author    = {J. Yao and D. Hong and L. Xu and D. Meng and J. Chanussot and Z. Xu},
+      journal   = {IEEE Trans. Geosci. Remote Sens.}, 
+      year      = {2021},
+      note      = {DOI:10.1109/TGRS.2021.3069845}
+      publisher = {IEEE}
+     }
+     
+
 ## Implementation Details
 
 Before running the main file, please kindly download the Samson dataset from https://rslab.ut.ac.ir/data.
