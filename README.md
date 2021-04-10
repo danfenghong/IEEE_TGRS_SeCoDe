@@ -3,7 +3,7 @@
 [Jing Yao](https://scholar.google.com/citations?user=1SHd5ygAAAAJ&hl=en), [Danfeng Hong](https://sites.google.com/view/danfeng-hong), [Lin Xu](https://scholar.google.com/citations?user=OWRIJLMAAAAJ&hl=en),  [Deyu Meng](https://scholar.google.com/citations?user=an6w-64AAAAJ&hl=en), [Jocelyn Chanussot](http://jocelyn-chanussot.net/), [Zongben Xu](http://gr.xjtu.edu.cn/en/web/zbxu)
 ---------------------
 
-Run this Matlab code to reproduce the result on Samson Dataset in ["Sparsity-Enhanced Convolutional Decomposition: A Novel Tensor-Based Paradigm for Blind Hyperspectral Unmixing"]().
+Run this Matlab code to reproduce the result on Samson Dataset in ["Sparsity-Enhanced Convolutional Decomposition: A Novel Tensor-Based Paradigm for Blind Hyperspectral Unmixing"](https://ieeexplore.ieee.org/document/9399660).
 
 ![alt text](./Workflow_SeCoDe.png)
 
